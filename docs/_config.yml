@@ -11,7 +11,7 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Survivo
+serverName: Survivo MC
 serverDescription: A Political Earth SMP
 serverIP: mc.survivo.tk
 useBedrockForOnlineStatus: false
